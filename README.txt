@@ -6,3 +6,4 @@ Maria v Cezar 02/10
 Camile
 Gabriela Kuhnen 
 Alexia Nielsen
+Thiago Gusmão
