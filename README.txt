@@ -8,3 +8,4 @@ Gabriela Kuhnen
 Alexia Nielsen
 Thiago Gusmão
 Alexandre Luiz Rosler
+Jose Guilherme Sutile
